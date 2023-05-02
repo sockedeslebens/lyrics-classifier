@@ -11,4 +11,4 @@ Run the script: `python lyrics_game.py`
 ## Step 3
 Enter name of artists, specify the number of song to load and have fun!
 
-
+![Screenshot of command line lyrics-classifier game](Lyrics_classifier_preview.png)
