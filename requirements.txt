@@ -1,0 +1,6 @@
+scikit-learn
+beautifulsoup4
+requests
+nltk
+art
+rich
